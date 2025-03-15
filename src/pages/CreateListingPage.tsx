@@ -1,4 +1,4 @@
-// pages/CreateListingPage.tsx
+
 import React, { useState } from 'react';
 import { useNavigate, useLocation, Link } from 'react-router-dom';
 import { Container, Typography, Box, Button, Alert } from '@mui/material';
@@ -64,5 +64,3 @@ const CreateListingPage: React.FC = () => {
 
 export default CreateListingPage;
 
-// pages/EditListingPage.tsx
-import React, { useState
